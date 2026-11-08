@@ -144,7 +144,7 @@ EclipseCore/
 |---|---|---|---|
 | **EclipseReport** | 2.0.0 | 高级举报 & 自动群众审判：举报累计达阈值自动封人，OP 上线时弹警报 | `/report <玩家> [理由]`（别名 `/jb`）、`/reports` |
 | **EclipseTroll** | 3.2.0 | 恶搞合集：模拟发言、伪造退服、视角控制、虚假 OP 提示、原地升天等 | `/egao` `/echat` `/equit` `/espin` `/efakeop` `/efly` `/einfo` |
-| **AntiForeignIP** | 1.0.0 | 拒绝境外 & 港澳台 IP 登入，防御海外假人压测；异步查询 IP 归属地 | `/ipwl <add\|remove> <IP>` | 有时会误判 |
+| **AntiForeignIP** | 1.0.0 | 拒绝境外 & 港澳台 IP 登入，防御海外假人压测；异步查询 IP 归属地 (有时会误判，小心点) | `/ipwl <add\|remove> <IP>` |
 | **EclipseInfo** | 1.0.0 | 实时服务器状态面板：TPS、内存、线程、在线人数 | `/info` |
 | **EclipseAntiSpam** | 1.1.0 | 聊天频率检测 + 手动禁言 | `/mute <玩家> <分钟> [原因]`、`/unmute <玩家>` |
 | **AntiClearBag** | 1.0.1 | 背包防清理：一键备份/回滚指定玩家背包 | `/acb <backup\|restore>`、`/acbclear <玩家>` |
